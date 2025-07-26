@@ -13,8 +13,9 @@ Features
 Screenshots
 
 | Game Screen | 
-|------------|
-(![WhatsApp Image 2025-07-26 at 16 26 01_297f0473](https://github.com/user-attachments/assets/26112f0d-4e35-42ea-86e2-6a8e8c436e72)) 
+![Home Screen](![WhatsApp Image 2025-07-26 at 16 26 02_b5bfe3bc](https://github.com/user-attachments/assets/2e2c7732-7680-48e0-b6fd-7d293d862e8c)
+)
+
 
 
 Built With
