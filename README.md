@@ -13,7 +13,7 @@ Features
 Screenshots
 
 | Game Screen | 
-(![WhatsApp Image 2025-07-26 at 16 26 02_b5bfe3bc](https://github.com/user-attachments/assets/2e2c7732-7680-48e0-b6fd-7d293d862e8c))
+![WhatsApp Image 2025-07-26 at 16 26 02_b5bfe3bc](https://github.com/user-attachments/assets/2e2c7732-7680-48e0-b6fd-7d293d862e8c)
 
 
 
