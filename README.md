@@ -14,7 +14,7 @@ Screenshots
 
 | Game Board | Winner Dialog |
 |------------|----------------|
-| ![Game Board](https://github.com/user-attachments/assets/your_image_id_here) | ![Winner Dialog](https://github.com/user-attachments/assets/your_image_id_here) |
+| ![Game Board](![WhatsApp Image 2025-07-26 at 16 26 01_297f0473](https://github.com/user-attachments/assets/26112f0d-4e35-42ea-86e2-6a8e8c436e72)) 
 
 
 Built With
